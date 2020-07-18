@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi, I'm Piotr 👋 👨‍💻
+
+I'm like a swiss army knife. Man of many talents. Commitment, passion and desire to create something great are just a small part of my world. Anything is possible but we need ask ourselves a question. Is it worth devote our time on that? Maybe we can make something else and thanks to that world will be better? Just use your imagination and don't stop dreaming... 
 
 <!--
 **k3nsei/k3nsei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
