@@ -5,6 +5,10 @@ I'm like a swiss army knife. A man of many talents. Commitment, passion and desi
 ### My motto
 `The code is mightier than the sword`
 
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=k3nsei&theme=dark)
+
+![](https://github-readme-stats.vercel.app/api?username=k3nsei&show_icons=true&count_private=true&hide_title=true&hide_rank=true&theme=dark) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=k3nsei&layout=compact&theme=dark)
+
 <!--
 **k3nsei/k3nsei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
