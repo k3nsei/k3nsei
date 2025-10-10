@@ -1,6 +1,6 @@
 ### Hi, I'm Piotr 👋 👨‍💻
 
-I'm like a Swiss army knife — a man of many talents. Commitment, passion, and the desire to create something great are just a small part of my world. Anything is possible, but we need to ask ourselves a question: is it worth devoting our time to? Maybe something else can be done that will make the world a better place. Just use your imagination and never stop dreaming...
+I'm a man of many talents — like a Swiss army knife! Commitment, passion and a desire to create something great are just a few of the things that drive me. While anything is possible, we need to ask ourselves: is it worth devoting our time to? Perhaps there's something else we can do to make the world a better place. Use your imagination and never stop dreaming!
 
 ### My motto
 `The code is mightier than the sword`
