@@ -1,0 +1,386 @@
+<svg
+  width="700"
+  height="200"
+  viewBox="0 0 700 200"
+  xmlns="http://www.w3.org/2000/svg"
+>
+  <style>
+    * {
+      font-family: "Verdana", "Helvetica", "Arial", sans-serif;
+    }
+  </style>
+
+  <rect
+    class="card-surface"
+    width="698"
+    height="198"
+    x="1"
+    y="1"
+    rx="5"
+    ry="5"
+    fill="#151515"
+    stroke="#000000"
+    stroke-width="1"
+    stroke-opacity="1"
+  />
+
+  <text
+    class="card-title"
+    x="30"
+    y="20"
+    fill="#fff"
+    font-size="22"
+    text-anchor="start"
+    dominant-baseline="hanging"
+  >
+    k3nsei (Piotr Stępniewski)
+  </text>
+
+  <g class="card-content" transform="translate(30, 46)" color="#9f9f9f">
+    <rect
+      class="card-content-surface"
+      width="640"
+      height="134"
+      x="0"
+      y="0"
+      fill="none"
+      stroke="none"
+    />
+
+    <g class="panel panel-details" transform="translate(0, 16)">
+      <g class="section section-contributions" transform="translate(0, 0)">
+        <use href="#icon-github" width="18" height="18" x="0" y="0" />
+        <text
+          x="22"
+          y="14"
+          fill="currentColor"
+          font-size="14"
+          text-anchor="start"
+          dominant-baseline="auto"
+        >
+          227 Contributions in 2026
+        </text>
+      </g>
+
+      <g class="section section-repositories" transform="translate(0, 28)">
+        <use href="#icon-book-marked" width="18" height="18" x="0" y="0" />
+        <text
+          x="22"
+          y="14"
+          fill="currentColor"
+          font-size="14"
+          text-anchor="start"
+          dominant-baseline="auto"
+        >
+          22 Public Repos
+        </text>
+      </g>
+
+      <g class="section section-date-joined" transform="translate(0, 56)">
+        <use href="#icon-clock" width="18" height="18" x="0" y="0" />
+        <text
+          x="22"
+          y="14"
+          fill="currentColor"
+          font-size="14"
+          text-anchor="start"
+          dominant-baseline="auto"
+        >
+          Joined GitHub 15 years ago
+        </text>
+      </g>
+
+      <g class="section section-company" transform="translate(0, 84)">
+        <use href="#icon-building" width="18" height="18" x="0" y="0" />
+        <text
+          x="22"
+          y="14"
+          fill="currentColor"
+          font-size="14"
+          text-anchor="start"
+          dominant-baseline="auto"
+        >
+          @BetssonGroup
+        </text>
+      </g>
+    </g>
+
+    <g class="panel panel-chart" transform="translate(-10, -20)">
+      <use href="#chart-contributions" width="420" height="154" x="240" y="0" />
+    </g>
+
+    <!-- Definitions -->
+
+    <defs>
+      <symbol id="icon-book-marked" viewBox="0 0 24 24">
+        <g
+          class="icon icon-book-marked"
+          fill="none"
+          stroke="#79ff97"
+          stroke-width="2"
+          stroke-linecap="round"
+          stroke-linejoin="round"
+        >
+          <path d="M10 2v8l3-3 3 3V2" />
+          <path
+            d="M4 19.5v-15A2.5 2.5 0 0 1 6.5 2H19a1 1 0 0 1 1 1v18a1 1 0 0 1-1 1H6.5a1 1 0 0 1 0-5H20"
+          />
+        </g>
+      </symbol>
+    </defs>
+
+    <defs>
+      <symbol id="icon-building" viewBox="0 0 24 24">
+        <g
+          class="icon icon-building"
+          fill="none"
+          stroke="#79ff97"
+          stroke-width="2"
+          stroke-linecap="round"
+          stroke-linejoin="round"
+        >
+          <path d="M10 12h4" />
+          <path d="M10 8h4" />
+          <path d="M14 21v-3a2 2 0 0 0-4 0v3" />
+          <path
+            d="M6 10H4a2 2 0 0 0-2 2v7a2 2 0 0 0 2 2h16a2 2 0 0 0 2-2V9a2 2 0 0 0-2-2h-2"
+          />
+          <path d="M6 21V5a2 2 0 0 1 2-2h8a2 2 0 0 1 2 2v16" />
+        </g>
+      </symbol>
+    </defs>
+
+    <defs>
+      <symbol id="icon-clock" viewBox="0 0 24 24">
+        <g
+          class="icon icon-clock"
+          fill="none"
+          stroke="#79ff97"
+          stroke-width="2"
+          stroke-linecap="round"
+          stroke-linejoin="round"
+        >
+          <path d="M12 6v6l4 2" />
+          <circle cx="12" cy="12" r="10" />
+        </g>
+      </symbol>
+    </defs>
+
+    <defs>
+      <symbol id="icon-github" viewBox="0 0 24 24">
+        <g
+          class="icon icon-github"
+          fill="none"
+          stroke="#79ff97"
+          stroke-width="2"
+          stroke-linecap="round"
+          stroke-linejoin="round"
+        >
+          <path
+            d="M15 22v-4a4.8 4.8 0 0 0-1-3.5c3 0 6-2 6-5.5.08-1.25-.27-2.48-1-3.5.28-1.15.28-2.35 0-3.5 0 0-1 0-3 1.5-2.64-.5-5.36-.5-8 0C6 2 5 2 5 2c-.3 1.15-.3 2.35 0 3.5A5.403 5.403 0 0 0 4 9c0 3.5 3 5.5 6 5.5-.39.49-.68 1.05-.85 1.65-.17.6-.22 1.23-.15 1.85v4"
+          />
+          <path d="M9 18c-4.51 2-5-2-7-2" />
+        </g>
+      </symbol>
+    </defs>
+
+    <defs>
+      <symbol id="icon-mail" viewBox="0 0 24 24">
+        <g
+          class="icon icon-mail"
+          fill="none"
+          stroke="#79ff97"
+          stroke-width="2"
+          stroke-linecap="round"
+          stroke-linejoin="round"
+        >
+          <path d="m22 7-8.991 5.727a2 2 0 0 1-2.009 0L2 7" />
+          <rect x="2" y="4" width="20" height="16" rx="2" />
+        </g>
+      </symbol>
+    </defs>
+
+    <defs>
+      <symbol id="icon-map-pin" viewBox="0 0 24 24">
+        <g
+          class="icon icon-map-pin"
+          fill="none"
+          stroke="#79ff97"
+          stroke-width="2"
+          stroke-linecap="round"
+          stroke-linejoin="round"
+        >
+          <path d="M10 12h4" />
+          <path d="M10 8h4" />
+          <path d="M14 21v-3a2 2 0 0 0-4 0v3" />
+          <path
+            d="M6 10H4a2 2 0 0 0-2 2v7a2 2 0 0 0 2 2h16a2 2 0 0 0 2-2V9a2 2 0 0 0-2-2h-2"
+          />
+          <path d="M6 21V5a2 2 0 0 1 2-2h8a2 2 0 0 1 2 2v16" />
+        </g>
+      </symbol>
+    </defs>
+
+    <defs>
+      <symbol id="chart-contributions" viewBox="0 0 420 154">
+        <rect
+          class="chart-surface"
+          width="420"
+          height="154"
+          x="0"
+          y="0"
+          fill="none"
+          stroke="none"
+        />
+
+        <text
+          class="title"
+          x="242"
+          y="0"
+          fill="#9f9f9f"
+          font-size="10"
+          text-anchor="start"
+          dominant-baseline="hanging"
+        >
+          contributions in the last year
+        </text>
+
+        <g class="chart" transform="translate(18, 21)" color="#fff">
+          <path
+            d="M0,94.976C10.192,76.272,20.384,57.568,30.575,57.568C39.781,57.568,48.986,68.877,58.192,73.024C68.384,77.616,78.575,80.471,88.767,83.104C98.63,85.652,108.493,88.704,118.356,88.704C128.548,88.704,138.74,86.24,148.932,86.24C158.795,86.24,168.658,91.168,178.521,91.168C188.712,91.168,198.904,81.536,209.096,81.536C219.288,81.536,229.479,94.08,239.671,94.08C249.534,94.08,259.397,6.72,269.26,6.72C279.452,6.72,289.644,31.808,299.836,31.808C309.699,31.808,319.562,25.312,329.425,25.312C339.616,25.312,349.808,43.232,360,61.152L360,112C349.808,112,339.616,112,329.425,112C319.562,112,309.699,112,299.836,112C289.644,112,279.452,112,269.26,112C259.397,112,249.534,112,239.671,112C229.479,112,219.288,112,209.096,112C198.904,112,188.712,112,178.521,112C168.658,112,158.795,112,148.932,112C138.74,112,128.548,112,118.356,112C108.493,112,98.63,112,88.767,112C78.575,112,68.384,112,58.192,112C48.986,112,39.781,112,30.575,112C20.384,112,10.192,112,0,112Z"
+            fill="currentColor"
+            stroke="currentColor"
+          />
+
+          <g
+            class="x-axis"
+            transform="translate(0, 112)"
+            color="#9f9f9f"
+            fill="none"
+            font-size="10"
+            text-anchor="middle"
+            dominant-baseline="hanging"
+          >
+            <line
+              class="line"
+              x1="0"
+              x2="360"
+              y1="0"
+              y2="0"
+              stroke="currentColor"
+            />
+
+            <g class="tick" transform="translate(0, 0)">
+              <line class="mark" y2="6" stroke="currentColor" />
+              <text class="label" y="9" fill="currentColor">25/01</text>
+            </g>
+
+            <g class="tick" transform="translate(58.19178082191781, 0)">
+              <line class="mark" y2="6" stroke="currentColor" />
+              <text class="label" y="9" fill="currentColor">25/03</text>
+            </g>
+
+            <g class="tick" transform="translate(118.35616438356163, 0)">
+              <line class="mark" y2="6" stroke="currentColor" />
+              <text class="label" y="9" fill="currentColor">25/05</text>
+            </g>
+
+            <g class="tick" transform="translate(178.5205479452055, 0)">
+              <line class="mark" y2="6" stroke="currentColor" />
+              <text class="label" y="9" fill="currentColor">25/07</text>
+            </g>
+
+            <g class="tick" transform="translate(239.67123287671234, 0)">
+              <line class="mark" y2="6" stroke="currentColor" />
+              <text class="label" y="9" fill="currentColor">25/09</text>
+            </g>
+
+            <g class="tick" transform="translate(299.83561643835617, 0)">
+              <line class="mark" y2="6" stroke="currentColor" />
+              <text class="label" y="9" fill="currentColor">25/11</text>
+            </g>
+
+            <g class="tick" transform="translate(360, 0)">
+              <line class="mark" y2="6" stroke="currentColor" />
+              <text class="label" y="9" fill="currentColor">26/01</text>
+            </g>
+          </g>
+
+          <g
+            class="y-axis"
+            transform="translate(360, 0)"
+            color="#9f9f9f"
+            fill="none"
+            font-size="10"
+            text-anchor="start"
+            dominant-baseline="middle"
+          >
+            <line
+              class="line"
+              x1="0"
+              x2="0"
+              y1="0"
+              y2="112"
+              stroke="currentColor"
+            />
+
+            <g class="tick" transform="translate(0,112)">
+              <line class="mark" x2="6" stroke="currentColor" />
+              <text class="label" x="9" fill="currentColor">0</text>
+            </g>
+
+            <g class="tick" transform="translate(0,100.8)">
+              <line class="mark" x2="6" stroke="currentColor" />
+              <text class="label" x="9" fill="currentColor">50</text>
+            </g>
+
+            <g class="tick" transform="translate(0,89.60000000000001)">
+              <line class="mark" x2="6" stroke="currentColor" />
+              <text class="label" x="9" fill="currentColor">100</text>
+            </g>
+
+            <g class="tick" transform="translate(0,78.39999999999999)">
+              <line class="mark" x2="6" stroke="currentColor" />
+              <text class="label" x="9" fill="currentColor">150</text>
+            </g>
+
+            <g class="tick" transform="translate(0,67.2)">
+              <line class="mark" x2="6" stroke="currentColor" />
+              <text class="label" x="9" fill="currentColor">200</text>
+            </g>
+
+            <g class="tick" transform="translate(0,56)">
+              <line class="mark" x2="6" stroke="currentColor" />
+              <text class="label" x="9" fill="currentColor">250</text>
+            </g>
+
+            <g class="tick" transform="translate(0,44.800000000000004)">
+              <line class="mark" x2="6" stroke="currentColor" />
+              <text class="label" x="9" fill="currentColor">300</text>
+            </g>
+
+            <g class="tick" transform="translate(0,33.60000000000001)">
+              <line class="mark" x2="6" stroke="currentColor" />
+              <text class="label" x="9" fill="currentColor">350</text>
+            </g>
+
+            <g class="tick" transform="translate(0,22.399999999999995)">
+              <line class="mark" x2="6" stroke="currentColor" />
+              <text class="label" x="9" fill="currentColor">400</text>
+            </g>
+
+            <g class="tick" transform="translate(0,11.199999999999998)">
+              <line class="mark" x2="6" stroke="currentColor" />
+              <text class="label" x="9" fill="currentColor">450</text>
+            </g>
+
+            <g class="tick" transform="translate(0,0)">
+              <line class="mark" x2="6" stroke="currentColor" />
+              <text class="label" x="9" fill="currentColor">500</text>
+            </g>
+          </g>
+        </g>
+      </symbol>
+    </defs>
+  </g>
+</svg>
