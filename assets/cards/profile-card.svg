@@ -18,7 +18,7 @@
     y="1"
     rx="5"
     ry="5"
-    fill="#0d1117"
+    fill="#010409"
     stroke="#3d444d"
     stroke-width="1"
     stroke-opacity="1"
@@ -58,7 +58,7 @@
           text-anchor="start"
           dominant-baseline="auto"
         >
-          295 Contributions in 2026
+          297 Contributions in 2026
         </text>
       </g>
 
@@ -116,7 +116,7 @@
         <g
           class="icon icon-book-marked"
           fill="none"
-          stroke="#2ea043"
+          stroke="#4493f8"
           stroke-width="2"
           stroke-linecap="round"
           stroke-linejoin="round"
@@ -134,7 +134,7 @@
         <g
           class="icon icon-building"
           fill="none"
-          stroke="#2ea043"
+          stroke="#4493f8"
           stroke-width="2"
           stroke-linecap="round"
           stroke-linejoin="round"
@@ -155,7 +155,7 @@
         <g
           class="icon icon-clock"
           fill="none"
-          stroke="#2ea043"
+          stroke="#4493f8"
           stroke-width="2"
           stroke-linecap="round"
           stroke-linejoin="round"
@@ -171,7 +171,7 @@
         <g
           class="icon icon-github"
           fill="none"
-          stroke="#2ea043"
+          stroke="#4493f8"
           stroke-width="2"
           stroke-linecap="round"
           stroke-linejoin="round"
@@ -189,7 +189,7 @@
         <g
           class="icon icon-mail"
           fill="none"
-          stroke="#2ea043"
+          stroke="#4493f8"
           stroke-width="2"
           stroke-linecap="round"
           stroke-linejoin="round"
@@ -205,7 +205,7 @@
         <g
           class="icon icon-map-pin"
           fill="none"
-          stroke="#2ea043"
+          stroke="#4493f8"
           stroke-width="2"
           stroke-linecap="round"
           stroke-linejoin="round"
