@@ -5,6 +5,8 @@ I'm a man of many talents, like a Swiss army knife! Commitment, passion and a de
 ### My motto
 `The code is mightier than the sword`
 
+### Quote of the Day
+
 <!-- START_DAILY_QUOTE_COWSAY -->
 ```
  ___________________________________________________________
@@ -20,6 +22,9 @@ I'm a man of many talents, like a Swiss army knife! Commitment, passion and a de
                 ||     ||
 ```
 <!-- END_DAILY_QUOTE_COWSAY -->
+
+
+### Stats
 
 [![Profile Details](./assets/cards/profile-card.svg)](https://github.com/k3nsei)
 [![Top Langs](./assets/cards/top-langs-card.svg)](https://github.com/k3nsei)
