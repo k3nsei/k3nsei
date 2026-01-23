@@ -5,7 +5,12 @@ I'm a man of many talents, like a Swiss army knife! Commitment, passion and a de
 ### My motto
 `The code is mightier than the sword`
 
-[![Profile Details](./assets/cards/profile-card.svg)](https://github.com/k3nsei) [![Top Langs](./assets/cards/top-langs-card.svg)](https://github.com/k3nsei)
+[![Profile Details](./assets/cards/profile-card.svg)](https://github.com/k3nsei)
+[![Top Langs](./assets/cards/top-langs-card.svg)](https://github.com/k3nsei)
+
+<!-- START_DAILY_QUOTE_COWSAY -->
+
+<!-- END_DAILY_QUOTE_COWSAY -->
 
 <!--
 **k3nsei/k3nsei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
