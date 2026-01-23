@@ -9,7 +9,21 @@ I'm a man of many talents, like a Swiss army knife! Commitment, passion and a de
 [![Top Langs](./assets/cards/top-langs-card.svg)](https://github.com/k3nsei)
 
 <!-- START_DAILY_QUOTE_COWSAY -->
-
+<!-- START_DAILY_QUOTE_COWSAY -->
+```
+ ___________________________________________________________
+/ What is a coder's favorite drink? Java, obviously. Unless \
+| they're into TypeScript, then probably... type-safe tea?  |
+|                                                           |
+\ — Anonymous                                               /
+ -----------------------------------------------------------
+        \   ^__^
+         \  (oo)\_______
+            (__)\       )\/\
+                ||----w |
+                ||     ||
+```
+<!-- END_DAILY_QUOTE_COWSAY -->
 <!-- END_DAILY_QUOTE_COWSAY -->
 
 <!--
