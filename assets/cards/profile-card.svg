@@ -6,7 +6,9 @@
 >
   <style>
     * {
-      font-family: "Verdana", "Helvetica", "Arial", sans-serif;
+      font-family:
+        -apple-system, BlinkMacSystemFont, "Segoe UI", "Noto Sans", Helvetica,
+        Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji";
     }
   </style>
 
@@ -35,6 +37,7 @@
   >
     k3nsei (Piotr Stępniewski)
   </text>
+  ;
 
   <g class="card-content" transform="translate(30, 46)" color="#9198A1">
     <rect
@@ -235,11 +238,11 @@
 
         <text
           class="title"
-          x="242"
+          x="366"
           y="0"
           fill="#9198A1"
           font-size="10"
-          text-anchor="start"
+          text-anchor="end"
           dominant-baseline="hanging"
         >
           contributions in the last year

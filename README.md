@@ -9,17 +9,26 @@ I'm a man of many talents, like a Swiss army knife! Commitment, passion and a de
 
 <!-- START_DAILY_QUOTE_COWSAY -->
 ```
- ___________________________________________________________
-/ What is a coder's favorite drink? Java, obviously. Unless \
-| they're into TypeScript, then probably... type-safe tea?  |
-|                                                           |
-\ — Anonymous                                               /
- -----------------------------------------------------------
-        \   ^__^
-         \  (oo)\_______
-            (__)\       )\/\
-                ||----w |
-                ||     ||
+ ______________________________________________________________
+/ Debugging is like being the detective in a crime movie where \
+| you're also the murderer.                                    |
+|                                                              |
+\ — Filipe Fortes                                              /
+ --------------------------------------------------------------
+\                             .       .
+ \                           / `.   .' " 
+  \                  .---.  <    > <    >  .---.
+   \                 |    \  \ - ~ ~ - /  /    |
+         _____          ..-~             ~-..-~
+        |     |   \~~~\.'                    `./~~~/
+       ---------   \__/                        \__/
+      .'  O    \     /               /       \  " 
+     (_____,    `._.'               |         }  \/~~~/
+      `----.          /       }     |        /    \__/
+            `-.      |       /      |       /      `. ,~~|
+                ~-.__|      /_ - ~ ^|      /- _      `..-'   
+                     |     /        |     /     ~-.     `-. _  _  _
+                     |_____|        |_____|         ~ - . _ _ _ _ _>
 ```
 <!-- END_DAILY_QUOTE_COWSAY -->
 
