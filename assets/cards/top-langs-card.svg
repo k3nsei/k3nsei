@@ -6,9 +6,7 @@
 >
   <style>
     * {
-      font-family:
-        -apple-system, BlinkMacSystemFont, "Segoe UI", "Noto Sans", Helvetica,
-        Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji";
+      font-family: "Verdana", "Helvetica", "Arial", sans-serif;
     }
   </style>
 
@@ -28,16 +26,15 @@
 
   <text
     class="card-title"
-    x="150"
+    x="20"
     y="20"
     fill="#F0F6FC"
     font-size="22"
-    text-anchor="middle"
+    text-anchor="start"
     dominant-baseline="hanging"
   >
     Most Used Languages
   </text>
-  ;
 
   <g class="card-content" transform="translate(20, 46)" color="#9198A1">
     <rect
@@ -114,7 +111,7 @@
         <g transform="translate(0, 0)">
           <circle cx="5" cy="9" r="5" fill="#3178c6" />
           <text
-            x="18"
+            x="15"
             y="10"
             fill="#9198A1"
             font-size="11"
@@ -128,7 +125,7 @@
         <g transform="translate(0, 25)">
           <circle cx="5" cy="9" r="5" fill="#178600" />
           <text
-            x="18"
+            x="15"
             y="10"
             fill="#9198A1"
             font-size="11"
@@ -142,7 +139,7 @@
         <g transform="translate(0, 50)">
           <circle cx="5" cy="9" r="5" fill="#f1e05a" />
           <text
-            x="18"
+            x="15"
             y="10"
             fill="#9198A1"
             font-size="11"
@@ -157,7 +154,7 @@
         <g transform="translate(0, 0)">
           <circle cx="5" cy="9" r="5" fill="#663399" />
           <text
-            x="18"
+            x="15"
             y="10"
             fill="#9198A1"
             font-size="11"
@@ -171,7 +168,7 @@
         <g transform="translate(0, 25)">
           <circle cx="5" cy="9" r="5" fill="#e34c26" />
           <text
-            x="18"
+            x="15"
             y="10"
             fill="#9198A1"
             font-size="11"
@@ -185,7 +182,7 @@
         <g transform="translate(0, 50)">
           <circle cx="5" cy="9" r="5" fill="#4F5D95" />
           <text
-            x="18"
+            x="15"
             y="10"
             fill="#9198A1"
             font-size="11"
