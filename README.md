@@ -9,12 +9,11 @@ I'm a man of many talents, like a Swiss army knife! Commitment, passion and a de
 
 <!-- START_DAILY_QUOTE_COWSAY -->
 ```
- ______________________________________________________________
-/ Debugging is like being the detective in a crime movie where \
-| you're also the murderer.                                    |
-|                                                              |
-\ — Filipe Fortes                                              /
- --------------------------------------------------------------
+ ________________________________________________
+/ Here's looking at you, kid... through the VPN. \
+|                                                |
+\ — Casablanca Remote                            /
+ ------------------------------------------------
    \                          .       .
     \                        / `.   .' "
      \               .---.  <    > <    >  .---.
