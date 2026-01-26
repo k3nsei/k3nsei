@@ -9,11 +9,11 @@ I'm a man of many talents, like a Swiss army knife! Commitment, passion and a de
 
 <!-- START_DAILY_QUOTE_COWSAY -->
 ```
- ________________________________________________
-/ Here's looking at you, kid... through the VPN. \
-|                                                |
-\ — Casablanca Remote                            /
- ------------------------------------------------
+ __________________________________
+/ git checkout -b new-week --force \
+|                                  |
+\ — Monday Developer               /
+ ----------------------------------
    \                          .       .
     \                        / `.   .' "
      \               .---.  <    > <    >  .---.
