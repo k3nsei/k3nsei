@@ -61,7 +61,7 @@
           text-anchor="start"
           dominant-baseline="auto"
         >
-          427 Contributions in 2026
+          473 Contributions in 2026
         </text>
       </g>
 
@@ -250,7 +250,7 @@
 
         <g class="chart" transform="translate(18, 21)" color="#0576FF">
           <path
-            d="M0,111.004C10.192,102.044,20.384,93.084,30.575,93.084C39.781,93.084,48.986,111.502,58.192,111.502C68.384,111.502,78.575,109.262,88.767,109.262C98.63,109.262,108.493,110.756,118.356,110.756C128.548,110.756,138.74,102.542,148.932,102.542C158.795,102.542,168.658,111.253,178.521,111.253C188.712,111.253,198.904,105.114,209.096,104.782C219.288,104.45,229.479,104.616,239.671,104.284C249.534,103.963,259.397,10.951,269.26,10.951C279.452,10.951,289.644,37.084,299.836,37.084C309.699,37.084,319.562,35.757,329.425,33.102C339.616,30.359,349.808,18.042,360,5.724L360,112C349.808,112,339.616,112,329.425,112C319.562,112,309.699,112,299.836,112C289.644,112,279.452,112,269.26,112C259.397,112,249.534,112,239.671,112C229.479,112,219.288,112,209.096,112C198.904,112,188.712,112,178.521,112C168.658,112,158.795,112,148.932,112C138.74,112,128.548,112,118.356,112C108.493,112,98.63,112,88.767,112C78.575,112,68.384,112,58.192,112C48.986,112,39.781,112,30.575,112C20.384,112,10.192,112,0,112Z"
+            d="M0,108.416C10.192,82.992,20.384,57.568,30.575,57.568C39.781,57.568,48.986,68.877,58.192,73.024C68.384,77.616,78.575,80.471,88.767,83.104C98.63,85.652,108.493,88.704,118.356,88.704C128.548,88.704,138.74,86.24,148.932,86.24C158.795,86.24,168.658,91.168,178.521,91.168C188.712,91.168,198.904,81.536,209.096,81.536C219.288,81.536,229.479,94.08,239.671,94.08C249.534,94.08,259.397,6.72,269.26,6.72C279.452,6.72,289.644,31.808,299.836,31.808C309.699,31.808,319.562,29.469,329.425,25.312C339.616,21.017,349.808,13.532,360,6.048L360,112C349.808,112,339.616,112,329.425,112C319.562,112,309.699,112,299.836,112C289.644,112,279.452,112,269.26,112C259.397,112,249.534,112,239.671,112C229.479,112,219.288,112,209.096,112C198.904,112,188.712,112,178.521,112C168.658,112,158.795,112,148.932,112C138.74,112,128.548,112,118.356,112C108.493,112,98.63,112,88.767,112C78.575,112,68.384,112,58.192,112C48.986,112,39.781,112,30.575,112C20.384,112,10.192,112,0,112Z"
             fill="rgb(from currentColor r g b / 45%)"
             stroke="currentColor"
           />
@@ -332,49 +332,54 @@
               <text class="label" x="9" fill="currentColor">0</text>
             </g>
 
-            <g class="tick" transform="translate(0,99.55555555555554)">
+            <g class="tick" transform="translate(0,100.8)">
               <line class="mark" x2="6" stroke="currentColor" />
               <text class="label" x="9" fill="currentColor">50</text>
             </g>
 
-            <g class="tick" transform="translate(0,87.11111111111111)">
+            <g class="tick" transform="translate(0,89.60000000000001)">
               <line class="mark" x2="6" stroke="currentColor" />
               <text class="label" x="9" fill="currentColor">100</text>
             </g>
 
-            <g class="tick" transform="translate(0,74.66666666666667)">
+            <g class="tick" transform="translate(0,78.39999999999999)">
               <line class="mark" x2="6" stroke="currentColor" />
               <text class="label" x="9" fill="currentColor">150</text>
             </g>
 
-            <g class="tick" transform="translate(0,62.22222222222223)">
+            <g class="tick" transform="translate(0,67.2)">
               <line class="mark" x2="6" stroke="currentColor" />
               <text class="label" x="9" fill="currentColor">200</text>
             </g>
 
-            <g class="tick" transform="translate(0,49.77777777777777)">
+            <g class="tick" transform="translate(0,56)">
               <line class="mark" x2="6" stroke="currentColor" />
               <text class="label" x="9" fill="currentColor">250</text>
             </g>
 
-            <g class="tick" transform="translate(0,37.333333333333336)">
+            <g class="tick" transform="translate(0,44.800000000000004)">
               <line class="mark" x2="6" stroke="currentColor" />
               <text class="label" x="9" fill="currentColor">300</text>
             </g>
 
-            <g class="tick" transform="translate(0,24.888888888888886)">
+            <g class="tick" transform="translate(0,33.60000000000001)">
               <line class="mark" x2="6" stroke="currentColor" />
               <text class="label" x="9" fill="currentColor">350</text>
             </g>
 
-            <g class="tick" transform="translate(0,12.44444444444445)">
+            <g class="tick" transform="translate(0,22.399999999999995)">
               <line class="mark" x2="6" stroke="currentColor" />
               <text class="label" x="9" fill="currentColor">400</text>
             </g>
 
-            <g class="tick" transform="translate(0,0)">
+            <g class="tick" transform="translate(0,11.199999999999998)">
               <line class="mark" x2="6" stroke="currentColor" />
               <text class="label" x="9" fill="currentColor">450</text>
+            </g>
+
+            <g class="tick" transform="translate(0,0)">
+              <line class="mark" x2="6" stroke="currentColor" />
+              <text class="label" x="9" fill="currentColor">500</text>
             </g>
           </g>
         </g>
