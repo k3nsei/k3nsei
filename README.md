@@ -35,6 +35,7 @@ I'm a man of many talents, like a Swiss army knife! Commitment, passion and a de
 ### Stats
 
 [![Profile Details](./assets/cards/profile-card.svg)](https://github.com/k3nsei)
+[![Streak](./assets/cards/streak-card.svg)](https://github.com/k3nsei)
 [![Top Langs](./assets/cards/top-langs-card.svg)](https://github.com/k3nsei)
 
 <!--
