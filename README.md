@@ -9,11 +9,12 @@ I'm a man of many talents, like a Swiss army knife! Commitment, passion and a de
 
 <!-- START_DAILY_QUOTE_COWSAY -->
 ```
- _______________________________________
-/ So say we all. Unless the tests fail. \
-|                                       |
-\ — Battlestar Galactica                /
- ---------------------------------------
+ ______________________________________________________________
+/ npm install: The command that adds 500MB to your project for \
+| a left-pad function.                                         |
+|                                                              |
+\ — Node Developer                                             /
+ --------------------------------------------------------------
    \                          .       .
     \                        / `.   .' "
      \               .---.  <    > <    >  .---.
