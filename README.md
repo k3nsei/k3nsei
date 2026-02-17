@@ -9,11 +9,11 @@ I'm a man of many talents, like a Swiss army knife! Commitment, passion and a de
 
 <!-- START_DAILY_QUOTE_COWSAY -->
 ```
- _____________________________________
-/ Four score and seven commits ago... \
-|                                     |
-\ — Abraham Lincoln (Git Edition)     /
- -------------------------------------
+ _________________________________________________________
+/ The spice must flow. Just like our deployment pipeline. \
+|                                                         |
+\ — Dune IT                                               /
+ ---------------------------------------------------------
    \                          .       .
     \                        / `.   .' "
      \               .---.  <    > <    >  .---.
