@@ -9,11 +9,12 @@ I'm a man of many talents, like a Swiss army knife! Commitment, passion and a de
 
 <!-- START_DAILY_QUOTE_COWSAY -->
 ```
- __________________________________________________
-/ Wibbly wobbly, timey wimey... release schedules. \
-|                                                  |
-\ — The Doctor                                     /
- --------------------------------------------------
+ _____________________________________________________________
+/ Feature flags: The art of having bugs in production without \
+| users knowing.                                              |
+|                                                             |
+\ — Release Engineer                                          /
+ -------------------------------------------------------------
    \                          .       .
     \                        / `.   .' "
      \               .---.  <    > <    >  .---.
