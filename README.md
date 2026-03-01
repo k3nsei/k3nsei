@@ -9,12 +9,12 @@ I'm a man of many talents, like a Swiss army knife! Commitment, passion and a de
 
 <!-- START_DAILY_QUOTE_COWSAY -->
 ```
- _____________________________________________________________
-/ Feature flags: The art of having bugs in production without \
-| users knowing.                                              |
-|                                                             |
-\ — Release Engineer                                          /
- -------------------------------------------------------------
+ _________________________________________________
+/ Walking on water and developing software from a \
+| specification are easy if both are frozen.      |
+|                                                 |
+\ — Edward V. Berard                              /
+ -------------------------------------------------
    \                          .       .
     \                        / `.   .' "
      \               .---.  <    > <    >  .---.
