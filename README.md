@@ -9,12 +9,11 @@ I'm a man of many talents, like a Swiss army knife! Commitment, passion and a de
 
 <!-- START_DAILY_QUOTE_COWSAY -->
 ```
- ___________________________________________________
-/ !important: When you've given up on understanding \
-| specificity.                                      |
-|                                                   |
-\ — Desperate Developer                             /
- ---------------------------------------------------
+ _________________________________________________
+/ Weeks of coding can save you hours of planning. \
+|                                                 |
+\ — Anonymous                                     /
+ -------------------------------------------------
    \                          .       .
     \                        / `.   .' "
      \               .---.  <    > <    >  .---.
