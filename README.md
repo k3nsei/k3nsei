@@ -9,12 +9,12 @@ I'm a man of many talents, like a Swiss army knife! Commitment, passion and a de
 
 <!-- START_DAILY_QUOTE_COWSAY -->
 ```
- ____________________________________________________
-/ Happy World Wide Web Day! On this day in 1989, Tim \
-| Berners-Lee proposed the World Wide Web.           |
-|                                                    |
-\ — Internet Historian                               /
- ----------------------------------------------------
+ ______________________________________________________________
+/ async await: Making asynchronous code look synchronous since \
+| 2017.                                                        |
+|                                                              |
+\ — Modern JS                                                  /
+ --------------------------------------------------------------
    \                          .       .
     \                        / `.   .' "
      \               .---.  <    > <    >  .---.
