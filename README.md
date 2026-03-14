@@ -9,12 +9,12 @@ I'm a man of many talents, like a Swiss army knife! Commitment, passion and a de
 
 <!-- START_DAILY_QUOTE_COWSAY -->
 ```
- ______________________________________________________________
-/ async await: Making asynchronous code look synchronous since \
-| 2017.                                                        |
-|                                                              |
-\ — Modern JS                                                  /
- --------------------------------------------------------------
+ _____________________________________________________________
+/ Happy Pi Day! Remember: 3.14159... is just the beginning of \
+| an infinite loop.                                           |
+|                                                             |
+\ — Math Enthusiast                                           /
+ -------------------------------------------------------------
    \                          .       .
     \                        / `.   .' "
      \               .---.  <    > <    >  .---.
