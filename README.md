@@ -9,11 +9,12 @@ I'm a man of many talents, like a Swiss army knife! Commitment, passion and a de
 
 <!-- START_DAILY_QUOTE_COWSAY -->
 ```
- _______________________________________
-/ So say we all. Unless the tests fail. \
-|                                       |
-\ — Battlestar Galactica                /
- ---------------------------------------
+ ____________________________________________________________
+/ May your code be green (all tests passing) and your errors \
+| be few. Happy St. Patrick's Day!                           |
+|                                                            |
+\ — Irish Developer                                          /
+ ------------------------------------------------------------
    \                          .       .
     \                        / `.   .' "
      \               .---.  <    > <    >  .---.

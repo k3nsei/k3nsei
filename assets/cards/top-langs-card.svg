@@ -57,7 +57,7 @@
 
       <rect
         mask="url(#rect-mask)"
-        width="126.63921826017116"
+        width="130.9428644844707"
         height="8"
         x="0"
         y="0"
@@ -66,81 +66,81 @@
 
       <rect
         mask="url(#rect-mask)"
-        width="40.948546112459304"
+        width="39.30236317067712"
         height="8"
-        x="126.63921826017116"
+        x="130.9428644844707"
         y="0"
         fill="#178600"
       />
 
       <rect
         mask="url(#rect-mask)"
-        width="40.06779338992858"
+        width="39.119178070837094"
         height="8"
-        x="167.58776437263046"
+        x="170.24522765514783"
         y="0"
         fill="#f1e05a"
       />
 
       <rect
         mask="url(#rect-mask)"
-        width="16.75001943122641"
+        width="16.076647629783743"
         height="8"
-        x="207.65555776255906"
+        x="209.3644057259849"
         y="0"
         fill="#663399"
       />
 
       <rect
         mask="url(#rect-mask)"
-        width="10.215945696199253"
+        width="10.165695481710502"
         height="8"
-        x="224.40557719378546"
+        x="225.44105335576864"
         y="0"
         fill="#e34c26"
       />
 
       <rect
         mask="url(#rect-mask)"
-        width="8.694135224063631"
+        width="8.344620077418499"
         height="8"
-        x="234.6215228899847"
+        x="235.60674883747916"
         y="0"
         fill="#4F5D95"
       />
 
       <rect
         mask="url(#rect-mask)"
-        width="7.003920789685041"
+        width="6.722354384423464"
         height="8"
-        x="243.31565811404835"
+        x="243.95136891489767"
         y="0"
         fill="#c6538c"
       />
 
       <rect
         mask="url(#rect-mask)"
-        width="4.42677882082682"
+        width="4.24881675687773"
         height="8"
-        x="250.3195789037334"
+        x="250.67372329932113"
         y="0"
         fill="#41b883"
       />
 
       <rect
         mask="url(#rect-mask)"
-        width="2.7247761090912235"
+        width="2.650257370920816"
         height="8"
-        x="254.74635772456023"
+        x="254.92254005619884"
         y="0"
         fill="#89e051"
       />
 
       <rect
         mask="url(#rect-mask)"
-        width="2.5288661663485703"
+        width="2.4272025728803164"
         height="8"
-        x="257.47113383365144"
+        x="257.57279742711967"
         y="0"
         fill="#012456"
       />
@@ -157,7 +157,7 @@
             text-anchor="start"
             dominant-baseline="middle"
           >
-            TypeScript 48.71%
+            TypeScript 50.36%
           </text>
         </g>
 
@@ -171,7 +171,7 @@
             text-anchor="start"
             dominant-baseline="middle"
           >
-            JavaScript 15.41%
+            JavaScript 15.05%
           </text>
         </g>
 
@@ -185,7 +185,7 @@
             text-anchor="start"
             dominant-baseline="middle"
           >
-            HTML 3.93%
+            HTML 3.91%
           </text>
         </g>
 
@@ -199,7 +199,7 @@
             text-anchor="start"
             dominant-baseline="middle"
           >
-            SCSS 2.69%
+            SCSS 2.59%
           </text>
         </g>
 
@@ -213,7 +213,7 @@
             text-anchor="start"
             dominant-baseline="middle"
           >
-            Shell 1.05%
+            Shell 1.02%
           </text>
         </g>
       </g>
@@ -228,7 +228,7 @@
             text-anchor="start"
             dominant-baseline="middle"
           >
-            C# 15.75%
+            C# 15.12%
           </text>
         </g>
 
@@ -242,7 +242,7 @@
             text-anchor="start"
             dominant-baseline="middle"
           >
-            CSS 6.44%
+            CSS 6.18%
           </text>
         </g>
 
@@ -256,7 +256,7 @@
             text-anchor="start"
             dominant-baseline="middle"
           >
-            PHP 3.34%
+            PHP 3.21%
           </text>
         </g>
 
@@ -270,7 +270,7 @@
             text-anchor="start"
             dominant-baseline="middle"
           >
-            Vue 1.70%
+            Vue 1.63%
           </text>
         </g>
 
@@ -284,7 +284,7 @@
             text-anchor="start"
             dominant-baseline="middle"
           >
-            PowerShell 0.97%
+            PowerShell 0.93%
           </text>
         </g>
       </g>
