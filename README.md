@@ -9,12 +9,12 @@ I'm a man of many talents, like a Swiss army knife! Commitment, passion and a de
 
 <!-- START_DAILY_QUOTE_COWSAY -->
 ```
- ____________________________________________________________
-/ May your code be green (all tests passing) and your errors \
-| be few. Happy St. Patrick's Day!                           |
-|                                                            |
-\ — Irish Developer                                          /
- ------------------------------------------------------------
+ _____________________________________________________________
+/ A user interface is like a joke. If you have to explain it, \
+| it's not that good.                                         |
+|                                                             |
+\ — Martin LeBlanc                                            /
+ -------------------------------------------------------------
    \                          .       .
     \                        / `.   .' "
      \               .---.  <    > <    >  .---.
