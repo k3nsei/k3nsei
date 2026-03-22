@@ -9,11 +9,11 @@ I'm a man of many talents, like a Swiss army knife! Commitment, passion and a de
 
 <!-- START_DAILY_QUOTE_COWSAY -->
 ```
- ____________________________________________________________
-/ It's dangerous to go alone! Take this Stack Overflow link. \
-|                                                            |
-\ — Legend of Zelda                                          /
- ------------------------------------------------------------
+ ____________________________________________
+/ Make it work, make it right, make it fast. \
+|                                            |
+\ — Kent Beck                                /
+ --------------------------------------------
    \                          .       .
     \                        / `.   .' "
      \               .---.  <    > <    >  .---.
