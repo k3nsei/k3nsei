@@ -9,11 +9,12 @@ I'm a man of many talents, like a Swiss army knife! Commitment, passion and a de
 
 <!-- START_DAILY_QUOTE_COWSAY -->
 ```
- __________________________________
-/ git checkout -b new-week --force \
-|                                  |
-\ — Monday Developer               /
- ----------------------------------
+ _____________________________________________________________
+/ Some people, when confronted with a problem, think 'I know, \
+| I'll use regular expressions.' Now they have two problems.  |
+|                                                             |
+\ — Jamie Zawinski                                            /
+ -------------------------------------------------------------
    \                          .       .
     \                        / `.   .' "
      \               .---.  <    > <    >  .---.
