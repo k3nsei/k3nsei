@@ -9,12 +9,11 @@ I'm a man of many talents, like a Swiss army knife! Commitment, passion and a de
 
 <!-- START_DAILY_QUOTE_COWSAY -->
 ```
- _____________________________________________________________
-/ Some people, when confronted with a problem, think 'I know, \
-| I'll use regular expressions.' Now they have two problems.  |
-|                                                             |
-\ — Jamie Zawinski                                            /
- -------------------------------------------------------------
+ ______________________________________________________________
+/ Research is what I'm doing when I don't know what I'm doing. \
+|                                                              |
+\ — Wernher von Braun                                          /
+ --------------------------------------------------------------
    \                          .       .
     \                        / `.   .' "
      \               .---.  <    > <    >  .---.
