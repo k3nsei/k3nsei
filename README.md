@@ -9,12 +9,12 @@ I'm a man of many talents, like a Swiss army knife! Commitment, passion and a de
 
 <!-- START_DAILY_QUOTE_COWSAY -->
 ```
- _____________________________________________________________
-/ Frontend development: where 'it looks fine on my screen' is \
-| not a valid bug resolution.                                 |
-|                                                             |
-\ — QA Engineer                                               /
- -------------------------------------------------------------
+ ____________________________________________________________
+/ The Vorlons ask: Who are you? The Shadows ask: What do you \
+| want? DevOps asks: Did you check the logs?                 |
+|                                                            |
+\ — Babylon 5 SRE                                            /
+ ------------------------------------------------------------
    \                          .       .
     \                        / `.   .' "
      \               .---.  <    > <    >  .---.
