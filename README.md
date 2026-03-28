@@ -9,12 +9,12 @@ I'm a man of many talents, like a Swiss army knife! Commitment, passion and a de
 
 <!-- START_DAILY_QUOTE_COWSAY -->
 ```
- ____________________________________________________________
-/ The Vorlons ask: Who are you? The Shadows ask: What do you \
-| want? DevOps asks: Did you check the logs?                 |
-|                                                            |
-\ — Babylon 5 SRE                                            /
- ------------------------------------------------------------
+ ________________________________________________________
+/ An API a day keeps the integration problems away. Just \
+| kidding, they multiply.                                |
+|                                                        |
+\ — Backend Developer                                    /
+ --------------------------------------------------------
    \                          .       .
     \                        / `.   .' "
      \               .---.  <    > <    >  .---.
