@@ -9,12 +9,11 @@ I'm a man of many talents, like a Swiss army knife! Commitment, passion and a de
 
 <!-- START_DAILY_QUOTE_COWSAY -->
 ```
- ________________________________________________________
-/ Responsive design: Making your website look bad on all \
-| screen sizes equally.                                  |
-|                                                        |
-\ — Cynical Designer                                     /
- --------------------------------------------------------
+ __________________________________
+/ git checkout -b new-week --force \
+|                                  |
+\ — Monday Developer               /
+ ----------------------------------
    \                          .       .
     \                        / `.   .' "
      \               .---.  <    > <    >  .---.
