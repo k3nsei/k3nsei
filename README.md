@@ -9,12 +9,12 @@ I'm a man of many talents, like a Swiss army knife! Commitment, passion and a de
 
 <!-- START_DAILY_QUOTE_COWSAY -->
 ```
- ___________________________________________________________
-/ All those moments will be lost in time, like logs without \
-| retention.                                                |
-|                                                           |
-\ — Roy Batty (DevOps)                                      /
- -----------------------------------------------------------
+ ______________________________________________________________
+/ The Earth is the cradle of humanity, but mankind cannot stay \
+| in the cradle forever.                                       |
+|                                                              |
+\ — Konstantin Tsiolkovsky                                     /
+ --------------------------------------------------------------
    \                          .       .
     \                        / `.   .' "
      \               .---.  <    > <    >  .---.
