@@ -9,12 +9,12 @@ I'm a man of many talents, like a Swiss army knife! Commitment, passion and a de
 
 <!-- START_DAILY_QUOTE_COWSAY -->
 ```
- ________________________________________________________
-/ Life is like a box of chocolates. You never know which \
-| dependency will break.                                 |
-|                                                        |
-\ — Forrest Gump                                         /
- --------------------------------------------------------
+ ____________________________________________________________
+/ Two things are infinite: the universe and human stupidity; \
+| and I'm not sure about the universe.                       |
+|                                                            |
+\ — Albert Einstein                                          /
+ ------------------------------------------------------------
    \                          .       .
     \                        / `.   .' "
      \               .---.  <    > <    >  .---.
