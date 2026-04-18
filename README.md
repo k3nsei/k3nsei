@@ -9,11 +9,12 @@ I'm a man of many talents, like a Swiss army knife! Commitment, passion and a de
 
 <!-- START_DAILY_QUOTE_COWSAY -->
 ```
- _____________________________________________________________
-/ Deep learning is just linear algebra with better marketing. \
-|                                                             |
-\ — Mathematician                                             /
- -------------------------------------------------------------
+ ______________________________________________________________
+/ npm install: The command that adds 500MB to your project for \
+| a left-pad function.                                         |
+|                                                              |
+\ — Node Developer                                             /
+ --------------------------------------------------------------
    \                          .       .
     \                        / `.   .' "
      \               .---.  <    > <    >  .---.
