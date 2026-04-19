@@ -9,12 +9,11 @@ I'm a man of many talents, like a Swiss army knife! Commitment, passion and a de
 
 <!-- START_DAILY_QUOTE_COWSAY -->
 ```
- ______________________________________________________________
-/ npm install: The command that adds 500MB to your project for \
-| a left-pad function.                                         |
-|                                                              |
-\ — Node Developer                                             /
- --------------------------------------------------------------
+ ____________________________________________________________
+/ The night is dark and full of terrors. So is our codebase. \
+|                                                            |
+\ — Melisandre                                               /
+ ------------------------------------------------------------
    \                          .       .
     \                        / `.   .' "
      \               .---.  <    > <    >  .---.
