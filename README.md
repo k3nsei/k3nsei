@@ -9,11 +9,12 @@ I'm a man of many talents, like a Swiss army knife! Commitment, passion and a de
 
 <!-- START_DAILY_QUOTE_COWSAY -->
 ```
- ____________________________________________________
-/ The double helix: the original paired programming. \
-|                                                    |
-\ — Science Humor                                    /
- ----------------------------------------------------
+ ______________________________________________________________
+/ The right man in the wrong place can make all the difference \
+| in the world. Especially in code review.                     |
+|                                                              |
+\ — G-Man (Half-Life)                                          /
+ --------------------------------------------------------------
    \                          .       .
     \                        / `.   .' "
      \               .---.  <    > <    >  .---.
