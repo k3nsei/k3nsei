@@ -9,12 +9,11 @@ I'm a man of many talents, like a Swiss army knife! Commitment, passion and a de
 
 <!-- START_DAILY_QUOTE_COWSAY -->
 ```
- ______________________________________________________________
-/ The right man in the wrong place can make all the difference \
-| in the world. Especially in code review.                     |
-|                                                              |
-\ — G-Man (Half-Life)                                          /
- --------------------------------------------------------------
+ __________________________________
+/ git checkout -b new-week --force \
+|                                  |
+\ — Monday Developer               /
+ ----------------------------------
    \                          .       .
     \                        / `.   .' "
      \               .---.  <    > <    >  .---.
