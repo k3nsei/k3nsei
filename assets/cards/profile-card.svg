@@ -250,7 +250,7 @@
 
         <g class="chart" transform="translate(18, 21)" color="#0576FF">
           <path
-            d="M0,109.536C9.114,99.915,18.228,90.294,27.342,88.704C36.759,87.061,46.177,86.24,55.595,86.24C64.709,86.24,73.823,91.168,82.937,91.168C92.354,91.168,101.772,81.536,111.19,81.536C120.608,81.536,130.025,94.08,139.443,94.08C148.557,94.08,157.671,6.72,166.785,6.72C176.203,6.72,185.62,31.808,195.038,31.808C204.152,31.808,213.266,29.643,222.38,25.312C231.797,20.837,241.215,1.12,250.633,1.12C260.051,1.12,269.468,50.848,278.886,50.848C287.392,50.848,295.899,44.128,304.405,44.128C313.823,44.128,323.241,52.758,332.658,64.064C341.772,75.006,350.886,92.495,360,109.984L360,112C350.886,112,341.772,112,332.658,112C323.241,112,313.823,112,304.405,112C295.899,112,287.392,112,278.886,112C269.468,112,260.051,112,250.633,112C241.215,112,231.797,112,222.38,112C213.266,112,204.152,112,195.038,112C185.62,112,176.203,112,166.785,112C157.671,112,148.557,112,139.443,112C130.025,112,120.608,112,111.19,112C101.772,112,92.354,112,82.937,112C73.823,112,64.709,112,55.595,112C46.177,112,36.759,112,27.342,112C18.228,112,9.114,112,0,112Z"
+            d="M0,88.928C10.192,87.584,20.384,86.24,30.575,86.24C40.438,86.24,50.301,91.168,60.164,91.168C70.356,91.168,80.548,81.536,90.74,81.536C100.932,81.536,111.123,94.08,121.315,94.08C131.178,94.08,141.041,6.72,150.904,6.72C161.096,6.72,171.288,31.808,181.479,31.808C191.342,31.808,201.205,29.643,211.068,25.312C221.26,20.837,231.452,1.12,241.644,1.12C251.836,1.12,262.027,50.848,272.219,50.848C281.425,50.848,290.63,44.128,299.836,44.128C310.027,44.128,320.219,52.758,330.411,64.064C340.274,75.006,350.137,92.495,360,109.984L360,112C350.137,112,340.274,112,330.411,112C320.219,112,310.027,112,299.836,112C290.63,112,281.425,112,272.219,112C262.027,112,251.836,112,241.644,112C231.452,112,221.26,112,211.068,112C201.205,112,191.342,112,181.479,112C171.288,112,161.096,112,150.904,112C141.041,112,131.178,112,121.315,112C111.123,112,100.932,112,90.74,112C80.548,112,70.356,112,60.164,112C50.301,112,40.438,112,30.575,112C20.384,112,10.192,112,0,112Z"
             fill="rgb(from currentColor r g b / 45%)"
             stroke="currentColor"
           />
@@ -275,37 +275,37 @@
 
             <g class="tick" transform="translate(0, 0)">
               <line class="mark" y2="6" stroke="currentColor" />
-              <text class="label" y="9" fill="currentColor">25/04</text>
+              <text class="label" y="9" fill="currentColor">25/05</text>
             </g>
 
-            <g class="tick" transform="translate(55.59493670886076, 0)">
+            <g class="tick" transform="translate(60.16438356164384, 0)">
               <line class="mark" y2="6" stroke="currentColor" />
-              <text class="label" y="9" fill="currentColor">25/06</text>
+              <text class="label" y="9" fill="currentColor">25/07</text>
             </g>
 
-            <g class="tick" transform="translate(111.18987341772151, 0)">
+            <g class="tick" transform="translate(121.31506849315069, 0)">
               <line class="mark" y2="6" stroke="currentColor" />
-              <text class="label" y="9" fill="currentColor">25/08</text>
+              <text class="label" y="9" fill="currentColor">25/09</text>
             </g>
 
-            <g class="tick" transform="translate(166.7848101265823, 0)">
+            <g class="tick" transform="translate(181.47945205479454, 0)">
               <line class="mark" y2="6" stroke="currentColor" />
-              <text class="label" y="9" fill="currentColor">25/10</text>
+              <text class="label" y="9" fill="currentColor">25/11</text>
             </g>
 
-            <g class="tick" transform="translate(222.37974683544303, 0)">
+            <g class="tick" transform="translate(241.64383561643837, 0)">
               <line class="mark" y2="6" stroke="currentColor" />
-              <text class="label" y="9" fill="currentColor">25/12</text>
+              <text class="label" y="9" fill="currentColor">26/01</text>
             </g>
 
-            <g class="tick" transform="translate(278.88607594936707, 0)">
+            <g class="tick" transform="translate(299.83561643835617, 0)">
               <line class="mark" y2="6" stroke="currentColor" />
-              <text class="label" y="9" fill="currentColor">26/02</text>
+              <text class="label" y="9" fill="currentColor">26/03</text>
             </g>
 
-            <g class="tick" transform="translate(332.65822784810126, 0)">
+            <g class="tick" transform="translate(360, 0)">
               <line class="mark" y2="6" stroke="currentColor" />
-              <text class="label" y="9" fill="currentColor">26/04</text>
+              <text class="label" y="9" fill="currentColor">26/05</text>
             </g>
           </g>
 

@@ -9,11 +9,12 @@ I'm a man of many talents, like a Swiss army knife! Commitment, passion and a de
 
 <!-- START_DAILY_QUOTE_COWSAY -->
 ```
- _____________________________________________________________
-/ The code works, don't touch it. — Ancient Developer Proverb \
-|                                                             |
-\ — Anonymous                                                 /
- -------------------------------------------------------------
+ __________________________________________________________
+/ I've seen things you people wouldn't believe. Queries on \
+| fire off the shoulder of production.                     |
+|                                                          |
+\ — Roy Batty                                              /
+ ----------------------------------------------------------
    \                          .       .
     \                        / `.   .' "
      \               .---.  <    > <    >  .---.
