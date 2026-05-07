@@ -57,7 +57,7 @@
 
       <rect
         mask="url(#rect-mask)"
-        width="130.9428644844707"
+        width="130.96265171575027"
         height="8"
         x="0"
         y="0"
@@ -66,81 +66,81 @@
 
       <rect
         mask="url(#rect-mask)"
-        width="39.30236317067712"
+        width="39.2963372741098"
         height="8"
-        x="130.9428644844707"
+        x="130.96265171575027"
         y="0"
         fill="#178600"
       />
 
       <rect
         mask="url(#rect-mask)"
-        width="39.119178070837094"
+        width="39.11318026048077"
         height="8"
-        x="170.24522765514783"
+        x="170.2589889898601"
         y="0"
         fill="#f1e05a"
       />
 
       <rect
         mask="url(#rect-mask)"
-        width="16.076647629783743"
+        width="16.074182734343598"
         height="8"
-        x="209.3644057259849"
+        x="209.37216925034085"
         y="0"
         fill="#663399"
       />
 
       <rect
         mask="url(#rect-mask)"
-        width="10.165695481710502"
+        width="10.164136862213713"
         height="8"
-        x="225.44105335576864"
+        x="225.44635198468444"
         y="0"
         fill="#e34c26"
       />
 
       <rect
         mask="url(#rect-mask)"
-        width="8.344620077418499"
+        width="8.343340667901526"
         height="8"
-        x="235.60674883747916"
+        x="235.61048884689816"
         y="0"
         fill="#4F5D95"
       />
 
       <rect
         mask="url(#rect-mask)"
-        width="6.722354384423464"
+        width="6.721323703086734"
         height="8"
-        x="243.95136891489767"
+        x="243.95382951479968"
         y="0"
         fill="#c6538c"
       />
 
       <rect
         mask="url(#rect-mask)"
-        width="4.24881675687773"
+        width="4.248165321995831"
         height="8"
-        x="250.67372329932113"
+        x="250.67515321788642"
         y="0"
         fill="#41b883"
       />
 
       <rect
         mask="url(#rect-mask)"
-        width="2.650257370920816"
+        width="2.6498510295330324"
         height="8"
-        x="254.92254005619884"
+        x="254.92331853988225"
         y="0"
         fill="#89e051"
       />
 
       <rect
         mask="url(#rect-mask)"
-        width="2.4272025728803164"
+        width="2.4268304305847352"
         height="8"
-        x="257.57279742711967"
+        x="257.57316956941526"
         y="0"
         fill="#012456"
       />
@@ -157,7 +157,7 @@
             text-anchor="start"
             dominant-baseline="middle"
           >
-            TypeScript 50.36%
+            TypeScript 50.37%
           </text>
         </g>
 
@@ -171,7 +171,7 @@
             text-anchor="start"
             dominant-baseline="middle"
           >
-            JavaScript 15.05%
+            JavaScript 15.04%
           </text>
         </g>
 
@@ -228,7 +228,7 @@
             text-anchor="start"
             dominant-baseline="middle"
           >
-            C# 15.12%
+            C# 15.11%
           </text>
         </g>
 
