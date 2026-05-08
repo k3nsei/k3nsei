@@ -10,10 +10,10 @@ I'm a man of many talents, like a Swiss army knife! Commitment, passion and a de
 <!-- START_DAILY_QUOTE_COWSAY -->
 ```
  _____________________________________________________________
-/ The only limit to our realization of tomorrow is our doubts \
-| of today.                                                   |
+/ Always code as if the guy who ends up maintaining your code \
+| will be a violent psychopath who knows where you live.      |
 |                                                             |
-\ — Franklin D. Roosevelt                                     /
+\ — John Woods                                                /
  -------------------------------------------------------------
    \                          .       .
     \                        / `.   .' "
