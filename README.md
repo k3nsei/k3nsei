@@ -9,11 +9,13 @@ I'm a man of many talents, like a Swiss army knife! Commitment, passion and a de
 
 <!-- START_DAILY_QUOTE_COWSAY -->
 ```
- _______________________________________________
-/ Monday: A fresh start and a clean git status. \
-|                                               |
-\ — Optimistic Developer                        /
- -----------------------------------------------
+ ____________________________________________________________
+/ A programmer's work is never done, bugs appear one by one, \
+| you fix one fast, but it won't last, and debugging's never |
+| fun!                                                       |
+|                                                            |
+\ — Dev Poet                                                 /
+ ------------------------------------------------------------
    \                          .       .
     \                        / `.   .' "
      \               .---.  <    > <    >  .---.
