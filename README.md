@@ -9,12 +9,11 @@ I'm a man of many talents, like a Swiss army knife! Commitment, passion and a de
 
 <!-- START_DAILY_QUOTE_COWSAY -->
 ```
- _____________________________________________________________
-/ Everything you've ever wanted is on the other side of fear. \
-| And a solid test suite.                                     |
-|                                                             |
-\ — George Addair (adapted)                                   /
- -------------------------------------------------------------
+ ____________________________
+/ GitOps: Git push and pray. \
+|                            |
+\ — DevOps Engineer          /
+ ----------------------------
    \                          .       .
     \                        / `.   .' "
      \               .---.  <    > <    >  .---.
