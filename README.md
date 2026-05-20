@@ -9,12 +9,12 @@ I'm a man of many talents, like a Swiss army knife! Commitment, passion and a de
 
 <!-- START_DAILY_QUOTE_COWSAY -->
 ```
- ______________________________________________________
-/ In theory, there is no difference between theory and \
-| practice. In practice, there is.                     |
-|                                                      |
-\ — Jan L. A. van de Snepscheut                        /
- ------------------------------------------------------
+ ___________________________________________________________
+/ Why did the div go to therapy? It had too many unresolved \
+| children.                                                 |
+|                                                           |
+\ — DOM Therapist                                           /
+ -----------------------------------------------------------
    \                          .       .
     \                        / `.   .' "
      \               .---.  <    > <    >  .---.
