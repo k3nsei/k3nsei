@@ -9,12 +9,11 @@ I'm a man of many talents, like a Swiss army knife! Commitment, passion and a de
 
 <!-- START_DAILY_QUOTE_COWSAY -->
 ```
- ______________________________________________________________
-/ The generation of random numbers is too important to be left \
-| to chance.                                                   |
-|                                                              |
-\ — Robert R. Coveyou                                          /
- --------------------------------------------------------------
+ ________________________________________________
+/ Press F to pay respects to the deprecated API. \
+|                                                |
+\ — Call of Duty                                 /
+ ------------------------------------------------
    \                          .       .
     \                        / `.   .' "
      \               .---.  <    > <    >  .---.
