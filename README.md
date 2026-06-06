@@ -9,12 +9,12 @@ I'm a man of many talents, like a Swiss army knife! Commitment, passion and a de
 
 <!-- START_DAILY_QUOTE_COWSAY -->
 ```
- ___________________________________________________
-/ !important: When you've given up on understanding \
-| specificity.                                      |
-|                                                   |
-\ — Desperate Developer                             /
- ---------------------------------------------------
+ ________________________________________________________
+/ The eyes of the world are upon you. No pressure on the \
+| release. D-Day Anniversary.                            |
+|                                                        |
+\ — Project Manager                                      /
+ --------------------------------------------------------
    \                          .       .
     \                        / `.   .' "
      \               .---.  <    > <    >  .---.
