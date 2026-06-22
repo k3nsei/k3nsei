@@ -9,11 +9,11 @@ I'm a man of many talents, like a Swiss army knife! Commitment, passion and a de
 
 <!-- START_DAILY_QUOTE_COWSAY -->
 ```
- _______________________________________________________
-/ Sun's out, guns out... wait, I'm still inside coding. \
-|                                                       |
-\ — Vampire Developer                                   /
- -------------------------------------------------------
+ ____________________________________________________
+/ Wake up, Neo. The repository has been compromised. \
+|                                                    |
+\ — Trinity                                          /
+ ----------------------------------------------------
    \                          .       .
     \                        / `.   .' "
      \               .---.  <    > <    >  .---.
