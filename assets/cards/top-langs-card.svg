@@ -57,7 +57,7 @@
 
       <rect
         mask="url(#rect-mask)"
-        width="130.09117551286226"
+        width="128.9547235866898"
         height="8"
         x="0"
         y="0"
@@ -66,83 +66,83 @@
 
       <rect
         mask="url(#rect-mask)"
-        width="39.58916748073374"
+        width="39.24332399471961"
         height="8"
-        x="130.09117551286226"
+        x="128.9547235866898"
         y="0"
         fill="#178600"
       />
 
       <rect
         mask="url(#rect-mask)"
-        width="39.3145555193748"
+        width="38.97111099156214"
         height="8"
-        x="169.680342993596"
+        x="168.1980475814094"
         y="0"
         fill="#f1e05a"
       />
 
       <rect
         mask="url(#rect-mask)"
-        width="16.193965049386737"
+        width="16.05249763086129"
         height="8"
-        x="208.99489851297082"
+        x="207.16915857297155"
         y="0"
         fill="#663399"
       />
 
       <rect
         mask="url(#rect-mask)"
-        width="10.239878432649517"
+        width="10.15042478967428"
         height="8"
-        x="225.18886356235757"
+        x="223.22165620383285"
         y="0"
         fill="#e34c26"
       />
 
       <rect
         mask="url(#rect-mask)"
-        width="8.405513947682621"
+        width="8.332084966211323"
         height="8"
-        x="235.42874199500707"
+        x="233.37208099350713"
         y="0"
         fill="#4F5D95"
       />
 
       <rect
         mask="url(#rect-mask)"
-        width="6.771409964181048"
+        width="6.7122562063157725"
         height="8"
-        x="243.8342559426897"
+        x="241.70416595971844"
         y="0"
         fill="#c6538c"
       />
 
       <rect
         mask="url(#rect-mask)"
-        width="4.279821990665364"
+        width="4.694867348923439"
         height="8"
-        x="250.60566590687077"
+        x="248.4164221660342"
+        y="0"
+        fill="#00ADD8"
+      />
+
+      <rect
+        mask="url(#rect-mask)"
+        width="4.242434274505584"
+        height="8"
+        x="253.11128951495766"
         y="0"
         fill="#41b883"
       />
 
       <rect
         mask="url(#rect-mask)"
-        width="2.669597308151525"
+        width="2.6462762105367705"
         height="8"
-        x="254.88548789753614"
+        x="257.35372378946323"
         y="0"
         fill="#89e051"
-      />
-
-      <rect
-        mask="url(#rect-mask)"
-        width="2.4449147943123846"
-        height="8"
-        x="257.55508520568765"
-        y="0"
-        fill="#012456"
       />
     </g>
     <g class="cols" transform="translate(0, 30)">
@@ -157,7 +157,7 @@
             text-anchor="start"
             dominant-baseline="middle"
           >
-            TypeScript 50.04%
+            TypeScript 49.60%
           </text>
         </g>
 
@@ -171,7 +171,7 @@
             text-anchor="start"
             dominant-baseline="middle"
           >
-            JavaScript 15.12%
+            JavaScript 14.99%
           </text>
         </g>
 
@@ -185,7 +185,7 @@
             text-anchor="start"
             dominant-baseline="middle"
           >
-            HTML 3.94%
+            HTML 3.90%
           </text>
         </g>
 
@@ -199,12 +199,12 @@
             text-anchor="start"
             dominant-baseline="middle"
           >
-            SCSS 2.60%
+            SCSS 2.58%
           </text>
         </g>
 
         <g transform="translate(0, 100)">
-          <circle cx="5" cy="9" r="5" fill="#89e051" />
+          <circle cx="5" cy="9" r="5" fill="#41b883" />
           <text
             x="18"
             y="10"
@@ -213,7 +213,7 @@
             text-anchor="start"
             dominant-baseline="middle"
           >
-            Shell 1.03%
+            Vue 1.63%
           </text>
         </g>
       </g>
@@ -228,7 +228,7 @@
             text-anchor="start"
             dominant-baseline="middle"
           >
-            C# 15.23%
+            C# 15.09%
           </text>
         </g>
 
@@ -242,7 +242,7 @@
             text-anchor="start"
             dominant-baseline="middle"
           >
-            CSS 6.23%
+            CSS 6.17%
           </text>
         </g>
 
@@ -256,12 +256,12 @@
             text-anchor="start"
             dominant-baseline="middle"
           >
-            PHP 3.23%
+            PHP 3.20%
           </text>
         </g>
 
         <g transform="translate(0, 75)">
-          <circle cx="5" cy="9" r="5" fill="#41b883" />
+          <circle cx="5" cy="9" r="5" fill="#00ADD8" />
           <text
             x="18"
             y="10"
@@ -270,12 +270,12 @@
             text-anchor="start"
             dominant-baseline="middle"
           >
-            Vue 1.65%
+            Go 1.81%
           </text>
         </g>
 
         <g transform="translate(0, 100)">
-          <circle cx="5" cy="9" r="5" fill="#012456" />
+          <circle cx="5" cy="9" r="5" fill="#89e051" />
           <text
             x="18"
             y="10"
@@ -284,7 +284,7 @@
             text-anchor="start"
             dominant-baseline="middle"
           >
-            PowerShell 0.94%
+            Shell 1.02%
           </text>
         </g>
       </g>
