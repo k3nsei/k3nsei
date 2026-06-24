@@ -9,11 +9,12 @@ I'm a man of many talents, like a Swiss army knife! Commitment, passion and a de
 
 <!-- START_DAILY_QUOTE_COWSAY -->
 ```
- ______________________________________________________
-/ Live long and prosper. And may your builds be green. \
-|                                                      |
-\ — Spock                                              /
- ------------------------------------------------------
+ ___________________________________________________________
+/ Chaos engineering: Breaking things on purpose before they \
+| break on someone's wedding day.                           |
+|                                                           |
+\ — Netflix Engineer                                        /
+ -----------------------------------------------------------
    \                          .       .
     \                        / `.   .' "
      \               .---.  <    > <    >  .---.
