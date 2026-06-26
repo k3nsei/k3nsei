@@ -9,11 +9,11 @@ I'm a man of many talents, like a Swiss army knife! Commitment, passion and a de
 
 <!-- START_DAILY_QUOTE_COWSAY -->
 ```
- _______________________________________________________
-/ Auto-scaling: Watch your AWS bill grow automatically! \
-|                                                       |
-\ — Cloud Accountant                                    /
- -------------------------------------------------------
+ __________________________________________________
+/ Friday deployments: because who needs a weekend? \
+|                                                  |
+\ — On-Call Engineer                               /
+ --------------------------------------------------
    \                          .       .
     \                        / `.   .' "
      \               .---.  <    > <    >  .---.
