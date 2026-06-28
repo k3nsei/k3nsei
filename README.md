@@ -9,11 +9,11 @@ I'm a man of many talents, like a Swiss army knife! Commitment, passion and a de
 
 <!-- START_DAILY_QUOTE_COWSAY -->
 ```
- _______________________________________
-/ So say we all. Unless the tests fail. \
-|                                       |
-\ — Battlestar Galactica                /
- ---------------------------------------
+ ____________________________________________________________
+/ Be yourself; everyone else is already taken. — Oscar Wilde \
+|                                                            |
+\ — Oscar Wilde                                              /
+ ------------------------------------------------------------
    \                          .       .
     \                        / `.   .' "
      \               .---.  <    > <    >  .---.
