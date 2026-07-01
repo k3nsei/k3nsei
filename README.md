@@ -9,12 +9,12 @@ I'm a man of many talents, like a Swiss army knife! Commitment, passion and a de
 
 <!-- START_DAILY_QUOTE_COWSAY -->
 ```
- _____________________________________________________________
-/ The best code is code that trends on social media for being \
-| good, not for being bad.                                    |
-|                                                             |
-\ — PR-aware Developer                                        /
- -------------------------------------------------------------
+ ___________________________________________________________
+/ Space: the final frontier. Also, the only place with more \
+| bugs than my code.                                        |
+|                                                           |
+\ — Captain Kirk                                            /
+ -----------------------------------------------------------
    \                          .       .
     \                        / `.   .' "
      \               .---.  <    > <    >  .---.
