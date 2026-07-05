@@ -9,11 +9,12 @@ I'm a man of many talents, like a Swiss army knife! Commitment, passion and a de
 
 <!-- START_DAILY_QUOTE_COWSAY -->
 ```
- ___________________________________________
-/ Declare independence from legacy systems. \
-|                                           |
-\ — Modernizer                              /
- -------------------------------------------
+ ______________________________________________________
+/ So we beat on, boats against the current, borne back \
+| ceaselessly into the legacy code.                    |
+|                                                      |
+\ — F. Scott Fitzgerald (adapted)                      /
+ ------------------------------------------------------
    \                          .       .
     \                        / `.   .' "
      \               .---.  <    > <    >  .---.
