@@ -9,11 +9,12 @@ I'm a man of many talents, like a Swiss army knife! Commitment, passion and a de
 
 <!-- START_DAILY_QUOTE_COWSAY -->
 ```
- __________________________________
-/ git checkout -b new-week --force \
-|                                  |
-\ — Monday Developer               /
- ----------------------------------
+ ______________________________________________________________
+/ Why did the CSS developer drown? Because they didn't know    \
+| how to keep their head above water; they just kept floating. |
+|                                                              |
+\ — Anonymous                                                  /
+ --------------------------------------------------------------
    \                          .       .
     \                        / `.   .' "
      \               .---.  <    > <    >  .---.
