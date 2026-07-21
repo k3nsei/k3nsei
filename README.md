@@ -9,13 +9,11 @@ I'm a man of many talents, like a Swiss army knife! Commitment, passion and a de
 
 <!-- START_DAILY_QUOTE_COWSAY -->
 ```
- ___________________________________________________________
-/ Debugging is twice as hard as writing the code. So if you \
-| write your code as cleverly as possible, you're not smart |
-| enough to debug it.                                       |
-|                                                           |
-\ — Brian Kernighan                                         /
- -----------------------------------------------------------
+ __________________________________________________________
+/ What did the router say to the doctor? It hurts when IP. \
+|                                                          |
+\ — Network Engineer                                       /
+ ----------------------------------------------------------
    \                          .       .
     \                        / `.   .' "
      \               .---.  <    > <    >  .---.
