@@ -9,12 +9,12 @@ I'm a man of many talents, like a Swiss army knife! Commitment, passion and a de
 
 <!-- START_DAILY_QUOTE_COWSAY -->
 ```
- _____________________________________________________________
-/ Science is a way of thinking much more than it is a body of \
-| knowledge.                                                  |
-|                                                             |
-\ — Carl Sagan                                                /
- -------------------------------------------------------------
+ ___________________________________________________
+/ Copy-paste from Stack Overflow isn't coding. It's \
+| research-based development.                       |
+|                                                   |
+\ — Honest Developer                                /
+ ---------------------------------------------------
    \                          .       .
     \                        / `.   .' "
      \               .---.  <    > <    >  .---.
