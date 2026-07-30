@@ -9,12 +9,11 @@ I'm a man of many talents, like a Swiss army knife! Commitment, passion and a de
 
 <!-- START_DAILY_QUOTE_COWSAY -->
 ```
- _____________________________________________________________
-/ What we fear doing most is usually what we most need to do. \
-| Like refactoring.                                           |
-|                                                             |
-\ — Tim Ferriss (adapted)                                     /
- -------------------------------------------------------------
+ ________________________________________
+/ You're gonna need a bigger disk space. \
+|                                        |
+\ — Jaws (SysAdmin)                      /
+ ----------------------------------------
    \                          .       .
     \                        / `.   .' "
      \               .---.  <    > <    >  .---.
