@@ -9,12 +9,11 @@ I'm a man of many talents, like a Swiss army knife! Commitment, passion and a de
 
 <!-- START_DAILY_QUOTE_COWSAY -->
 ```
- _________________________________________________________
-/ Measuring programming progress by lines of code is like \
-| measuring aircraft building progress by weight.         |
-|                                                         |
-\ — Bill Gates                                            /
- ---------------------------------------------------------
+ _______________________________________________
+/ Monday: A fresh start and a clean git status. \
+|                                               |
+\ — Optimistic Developer                        /
+ -----------------------------------------------
    \                          .       .
     \                        / `.   .' "
      \               .---.  <    > <    >  .---.
