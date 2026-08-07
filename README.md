@@ -9,11 +9,12 @@ I'm a man of many talents, like a Swiss army knife! Commitment, passion and a de
 
 <!-- START_DAILY_QUOTE_COWSAY -->
 ```
- ___________________________________
-/ Docker: it works in my container. \
-|                                   |
-\ — DevOps Engineer                 /
- -----------------------------------
+ ______________________________________________________________
+/ Ballmer Peak: The delicate balance between coding genius and \
+| syntax errors.                                               |
+|                                                              |
+\ — XKCD                                                       /
+ --------------------------------------------------------------
    \                          .       .
     \                        / `.   .' "
      \               .---.  <    > <    >  .---.
