@@ -9,12 +9,11 @@ I'm a man of many talents, like a Swiss army knife! Commitment, passion and a de
 
 <!-- START_DAILY_QUOTE_COWSAY -->
 ```
- ______________________________________________________________
-/ Ballmer Peak: The delicate balance between coding genius and \
-| syntax errors.                                               |
-|                                                              |
-\ — XKCD                                                       /
- --------------------------------------------------------------
+ _________________________
+/ I'm king of the cloud!  \
+|                         |
+\ — Titanic (AWS Edition) /
+ -------------------------
    \                          .       .
     \                        / `.   .' "
      \               .---.  <    > <    >  .---.
