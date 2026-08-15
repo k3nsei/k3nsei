@@ -9,11 +9,12 @@ I'm a man of many talents, like a Swiss army knife! Commitment, passion and a de
 
 <!-- START_DAILY_QUOTE_COWSAY -->
 ```
- __________________________________________________
-/ Friday deployments: because who needs a weekend? \
-|                                                  |
-\ — On-Call Engineer                               /
- --------------------------------------------------
+ _______________________________________________________
+/ What is dead may never die, but rises again with more \
+| technical debt.                                       |
+|                                                       |
+\ — House Greyjoy                                       /
+ -------------------------------------------------------
    \                          .       .
     \                        / `.   .' "
      \               .---.  <    > <    >  .---.
