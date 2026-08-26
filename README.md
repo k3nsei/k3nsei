@@ -9,11 +9,11 @@ I'm a man of many talents, like a Swiss army knife! Commitment, passion and a de
 
 <!-- START_DAILY_QUOTE_COWSAY -->
 ```
- _______________________________________________________
-/ Houston, we have a problem. The API is returning 500. \
-|                                                       |
-\ — Apollo 13                                           /
- -------------------------------------------------------
+ ________________________________________________
+/ I'll be back. After I fix this merge conflict. \
+|                                                |
+\ — Terminator                                   /
+ ------------------------------------------------
    \                          .       .
     \                        / `.   .' "
      \               .---.  <    > <    >  .---.
