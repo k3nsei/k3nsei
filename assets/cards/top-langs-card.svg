@@ -70,7 +70,7 @@
         height="8"
         x="128.85740691349142"
         y="0"
-        fill="#178600"
+        fill="#7355dd"
       />
 
       <rect
@@ -219,7 +219,7 @@
       </g>
       <g class="col" transform="translate(140, 0)">
         <g transform="translate(0, 0)">
-          <circle cx="5" cy="9" r="5" fill="#178600" />
+          <circle cx="5" cy="9" r="5" fill="#7355dd" />
           <text
             x="18"
             y="10"
