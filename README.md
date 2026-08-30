@@ -9,12 +9,11 @@ I'm a man of many talents, like a Swiss army knife! Commitment, passion and a de
 
 <!-- START_DAILY_QUOTE_COWSAY -->
 ```
- ________________________________________________________
-/ On-call rotation: Where you learn that 3 AM is a valid \
-| deployment time.                                       |
-|                                                        |
-\ — Sleepless Engineer                                   /
- --------------------------------------------------------
+ __________________________________________________________
+/ Don't be afraid to give up the good to go for the great. \
+|                                                          |
+\ — John D. Rockefeller                                    /
+ ----------------------------------------------------------
    \                          .       .
     \                        / `.   .' "
      \               .---.  <    > <    >  .---.
