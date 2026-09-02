@@ -9,12 +9,12 @@ I'm a man of many talents, like a Swiss army knife! Commitment, passion and a de
 
 <!-- START_DAILY_QUOTE_COWSAY -->
 ```
- ______________________________________________________________
-/ When you play the game of deploys, you win or you roll back. \
-| There is no middle ground.                                   |
-|                                                              |
-\ — Cersei (DevOps)                                            /
- --------------------------------------------------------------
+ _____________________________________________________________
+/ Science is a way of thinking much more than it is a body of \
+| knowledge.                                                  |
+|                                                             |
+\ — Carl Sagan                                                /
+ -------------------------------------------------------------
    \                          .       .
     \                        / `.   .' "
      \               .---.  <    > <    >  .---.
