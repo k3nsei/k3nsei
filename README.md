@@ -10,9 +10,10 @@ I'm a man of many talents, like a Swiss army knife! Commitment, passion and a de
 <!-- START_DAILY_QUOTE_COWSAY -->
 ```
  __________________________________________________________
-/ I have a UDP joke to tell you, but you might not get it. \
+/ Perfection is achieved not when there is nothing more to \
+| add, but when there is nothing left to take away.        |
 |                                                          |
-\ — Network Engineer                                       /
+\ — Antoine de Saint-Exupéry                               /
  ----------------------------------------------------------
    \                          .       .
     \                        / `.   .' "
