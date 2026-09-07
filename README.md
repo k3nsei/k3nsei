@@ -9,12 +9,12 @@ I'm a man of many talents, like a Swiss army knife! Commitment, passion and a de
 
 <!-- START_DAILY_QUOTE_COWSAY -->
 ```
- __________________________________________________________
-/ Perfection is achieved not when there is nothing more to \
-| add, but when there is nothing left to take away.        |
-|                                                          |
-\ — Antoine de Saint-Exupéry                               /
- ----------------------------------------------------------
+ ______________________________________________________________
+/ Choose a job you love, and you will never have to work a day \
+| in your life. Unless the server goes down.                   |
+|                                                              |
+\ — Confucius (DevOps Edition)                                 /
+ --------------------------------------------------------------
    \                          .       .
     \                        / `.   .' "
      \               .---.  <    > <    >  .---.
