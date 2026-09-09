@@ -9,11 +9,12 @@ I'm a man of many talents, like a Swiss army knife! Commitment, passion and a de
 
 <!-- START_DAILY_QUOTE_COWSAY -->
 ```
- ______________________________
-/ Boy! Read the error message! \
-|                              |
-\ — Kratos (God of War)        /
- ------------------------------
+ ________________________________________________________
+/ Testing can only prove the presence of bugs, not their \
+| absence.                                               |
+|                                                        |
+\ — Edsger W. Dijkstra                                   /
+ --------------------------------------------------------
    \                          .       .
     \                        / `.   .' "
      \               .---.  <    > <    >  .---.
