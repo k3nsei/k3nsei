@@ -9,11 +9,12 @@ I'm a man of many talents, like a Swiss army knife! Commitment, passion and a de
 
 <!-- START_DAILY_QUOTE_COWSAY -->
 ```
- ____________________________________________________
-/ ChatGPT wrote this code. I take no responsibility. \
-|                                                    |
-\ — Modern Developer                                 /
- ----------------------------------------------------
+ _____________________________________________________
+/ Day 0x100 of the year. If you know, you know. Happy \
+| Programmer Day!                                     |
+|                                                     |
+\ — Hex Developer                                     /
+ -----------------------------------------------------
    \                          .       .
     \                        / `.   .' "
      \               .---.  <    > <    >  .---.
