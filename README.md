@@ -9,12 +9,11 @@ I'm a man of many talents, like a Swiss army knife! Commitment, passion and a de
 
 <!-- START_DAILY_QUOTE_COWSAY -->
 ```
- ____________________________________________________________
-/ The scientist is not a person who gives the right answers, \
-| he's one who asks the right questions.                     |
-|                                                            |
-\ — Claude Lévi-Strauss                                      /
- ------------------------------------------------------------
+ ________________________________________________________
+/ CSS: Where you spend 80% of your time centering a div. \
+|                                                        |
+\ — Frontend Struggles                                   /
+ --------------------------------------------------------
    \                          .       .
     \                        / `.   .' "
      \               .---.  <    > <    >  .---.
