@@ -9,11 +9,12 @@ I'm a man of many talents, like a Swiss army knife! Commitment, passion and a de
 
 <!-- START_DAILY_QUOTE_COWSAY -->
 ```
- ________________________________________________
-/ It's Friday. Step away from the deploy button. \
-|                                                |
-\ — Experienced Developer                        /
- ------------------------------------------------
+ ___________________________________________________________
+/ Arr! Why does the pirate prefer Python? Because they love \
+| the 'C'! Talk Like a Pirate Day!                          |
+|                                                           |
+\ — Anonymous                                               /
+ -----------------------------------------------------------
    \                          .       .
     \                        / `.   .' "
      \               .---.  <    > <    >  .---.
