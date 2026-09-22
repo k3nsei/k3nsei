@@ -9,11 +9,12 @@ I'm a man of many talents, like a Swiss army knife! Commitment, passion and a de
 
 <!-- START_DAILY_QUOTE_COWSAY -->
 ```
- _______________________________________________________
-/ The measure of intelligence is the ability to change. \
-|                                                       |
-\ — Albert Einstein                                     /
- -------------------------------------------------------
+ _____________________________________________________________
+/ I'm going on an adventure! ...to refactor this legacy code. \
+| Happy Hobbit Day!                                           |
+|                                                             |
+\ — Bilbo Baggins                                             /
+ -------------------------------------------------------------
    \                          .       .
     \                        / `.   .' "
      \               .---.  <    > <    >  .---.
