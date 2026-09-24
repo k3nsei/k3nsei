@@ -9,11 +9,11 @@ I'm a man of many talents, like a Swiss army knife! Commitment, passion and a de
 
 <!-- START_DAILY_QUOTE_COWSAY -->
 ```
- _________________________________________________
-/ Fall: The season where nature refactors itself. \
-|                                                 |
-\ — Poetic Coder                                  /
- -------------------------------------------------
+ _________________________________________________________
+/ typeof null === 'object' — JavaScript being JavaScript. \
+|                                                         |
+\ — Brendan Eich Probably                                 /
+ ---------------------------------------------------------
    \                          .       .
     \                        / `.   .' "
      \               .---.  <    > <    >  .---.
