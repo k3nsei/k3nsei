@@ -9,12 +9,13 @@ I'm a man of many talents, like a Swiss army knife! Commitment, passion and a de
 
 <!-- START_DAILY_QUOTE_COWSAY -->
 ```
- _________________________________________________________
-/ Kubernetes: Finally, a way to make deployment even more \
-| complicated.                                            |
-|                                                         |
-\ — DevOps Engineer                                       /
- ---------------------------------------------------------
+ ____________________________________________________________
+/ Software is like entropy: It is difficult to grasp, weighs \
+| nothing, and obeys the Second Law of Thermodynamics; i.e., |
+| it always increases.                                       |
+|                                                            |
+\ — Norman Augustine                                         /
+ ------------------------------------------------------------
    \                          .       .
     \                        / `.   .' "
      \               .---.  <    > <    >  .---.
