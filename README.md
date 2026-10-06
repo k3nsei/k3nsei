@@ -9,12 +9,12 @@ I'm a man of many talents, like a Swiss army knife! Commitment, passion and a de
 
 <!-- START_DAILY_QUOTE_COWSAY -->
 ```
- ___________________________________________________________
-/ Chaos engineering: Breaking things on purpose before they \
-| break on someone's wedding day.                           |
-|                                                           |
-\ — Netflix Engineer                                        /
- -----------------------------------------------------------
+ ____________________________________________________________
+/ The computer was born to solve problems that did not exist \
+| before.                                                    |
+|                                                            |
+\ — Bill Gates                                               /
+ ------------------------------------------------------------
    \                          .       .
     \                        / `.   .' "
      \               .---.  <    > <    >  .---.
