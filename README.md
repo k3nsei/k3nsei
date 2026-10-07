@@ -9,12 +9,12 @@ I'm a man of many talents, like a Swiss army knife! Commitment, passion and a de
 
 <!-- START_DAILY_QUOTE_COWSAY -->
 ```
- ____________________________________________________________
-/ The computer was born to solve problems that did not exist \
-| before.                                                    |
-|                                                            |
-\ — Bill Gates                                               /
- ------------------------------------------------------------
+ ______________________________________________________________
+/ npm install: The command that adds 500MB to your project for \
+| a left-pad function.                                         |
+|                                                              |
+\ — Node Developer                                             /
+ --------------------------------------------------------------
    \                          .       .
     \                        / `.   .' "
      \               .---.  <    > <    >  .---.
