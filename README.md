@@ -9,11 +9,13 @@ I'm a man of many talents, like a Swiss army knife! Commitment, passion and a de
 
 <!-- START_DAILY_QUOTE_COWSAY -->
 ```
- _______________________________________________
-/ Monday: A fresh start and a clean git status. \
-|                                               |
-\ — Optimistic Developer                        /
- -----------------------------------------------
+ _________________________________________________________
+/ The Analytical Engine has no pretensions to originate   \
+| anything. It can do whatever we know how to order it to |
+| perform.                                                |
+|                                                         |
+\ — Ada Lovelace                                          /
+ ---------------------------------------------------------
    \                          .       .
     \                        / `.   .' "
      \               .---.  <    > <    >  .---.
