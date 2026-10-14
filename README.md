@@ -9,13 +9,12 @@ I'm a man of many talents, like a Swiss army knife! Commitment, passion and a de
 
 <!-- START_DAILY_QUOTE_COWSAY -->
 ```
- _________________________________________________________
-/ The Analytical Engine has no pretensions to originate   \
-| anything. It can do whatever we know how to order it to |
-| perform.                                                |
-|                                                         |
-\ — Ada Lovelace                                          /
- ---------------------------------------------------------
+ ______________________________________________________________
+/ It is a truth universally acknowledged that a project in     \
+| possession of a deadline must be in want of more developers. |
+|                                                              |
+\ — Jane Austen (adapted)                                      /
+ --------------------------------------------------------------
    \                          .       .
     \                        / `.   .' "
      \               .---.  <    > <    >  .---.
