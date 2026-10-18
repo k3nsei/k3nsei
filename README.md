@@ -9,12 +9,11 @@ I'm a man of many talents, like a Swiss army knife! Commitment, passion and a de
 
 <!-- START_DAILY_QUOTE_COWSAY -->
 ```
- _____________________________________________________________
-/ Remember folks, Monday is just a 1 in JavaScript: the start \
-| of everything painful.                                      |
-|                                                             |
-\ — JS Developer                                              /
- -------------------------------------------------------------
+ ______________________________________________________________
+/ Stay awhile and listen. I have many tales of legacy systems. \
+|                                                              |
+\ — Deckard Cain                                               /
+ --------------------------------------------------------------
    \                          .       .
     \                        / `.   .' "
      \               .---.  <    > <    >  .---.
