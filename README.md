@@ -9,11 +9,12 @@ I'm a man of many talents, like a Swiss army knife! Commitment, passion and a de
 
 <!-- START_DAILY_QUOTE_COWSAY -->
 ```
- ____________________________________
-/ Great Scott! Who approved this PR? \
-|                                    |
-\ — Doc Brown                        /
- ------------------------------------
+ ___________________________________________________________
+/ The best performance optimization is when you realize the \
+| feature was never needed.                                 |
+|                                                           |
+\ — Pragmatic Developer                                     /
+ -----------------------------------------------------------
    \                          .       .
     \                        / `.   .' "
      \               .---.  <    > <    >  .---.
