@@ -9,12 +9,11 @@ I'm a man of many talents, like a Swiss army knife! Commitment, passion and a de
 
 <!-- START_DAILY_QUOTE_COWSAY -->
 ```
- ___________________________________________________________
-/ The best performance optimization is when you realize the \
-| feature was never needed.                                 |
-|                                                           |
-\ — Pragmatic Developer                                     /
- -----------------------------------------------------------
+ ________________________________________________
+/ It's Friday. Step away from the deploy button. \
+|                                                |
+\ — Experienced Developer                        /
+ ------------------------------------------------
    \                          .       .
     \                        / `.   .' "
      \               .---.  <    > <    >  .---.
