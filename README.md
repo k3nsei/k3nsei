@@ -9,11 +9,12 @@ I'm a man of many talents, like a Swiss army knife! Commitment, passion and a de
 
 <!-- START_DAILY_QUOTE_COWSAY -->
 ```
- ________________________________________________
-/ It's Friday. Step away from the deploy button. \
-|                                                |
-\ — Experienced Developer                        /
- ------------------------------------------------
+ ____________________________________________________________
+/ Why did the developer celebrate October 24th? Because 1024 \
+| bytes in a kilobyte!                                       |
+|                                                            |
+\ — Anonymous                                                /
+ ------------------------------------------------------------
    \                          .       .
     \                        / `.   .' "
      \               .---.  <    > <    >  .---.
