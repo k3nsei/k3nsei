@@ -9,12 +9,12 @@ I'm a man of many talents, like a Swiss army knife! Commitment, passion and a de
 
 <!-- START_DAILY_QUOTE_COWSAY -->
 ```
- __________________________________________________________
-/ The scariest costume for developers: a production bug on \
-| Friday at 5pm. Happy Halloween!                          |
-|                                                          |
-\ — Anonymous                                              /
- ----------------------------------------------------------
+ ______________________________________________________________
+/ The hour you lost in spring returned. Use it to fix timezone \
+| bugs.                                                        |
+|                                                              |
+\ — Time Lord                                                  /
+ --------------------------------------------------------------
    \                          .       .
     \                        / `.   .' "
      \               .---.  <    > <    >  .---.
