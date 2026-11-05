@@ -9,11 +9,11 @@ I'm a man of many talents, like a Swiss army knife! Commitment, passion and a de
 
 <!-- START_DAILY_QUOTE_COWSAY -->
 ```
- __________________________________
-/ There's no place like 127.0.0.1. \
-|                                  |
-\ — Anonymous                      /
- ----------------------------------
+ _____________________________________________________________
+/ The cloud is just someone else's computer. Usually on fire. \
+|                                                             |
+\ — Skeptical Engineer                                        /
+ -------------------------------------------------------------
    \                          .       .
     \                        / `.   .' "
      \               .---.  <    > <    >  .---.
