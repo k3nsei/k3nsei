@@ -10,9 +10,10 @@ I'm a man of many talents, like a Swiss army knife! Commitment, passion and a de
 <!-- START_DAILY_QUOTE_COWSAY -->
 ```
  _____________________________________________________________
-/ The cloud is just someone else's computer. Usually on fire. \
+/ The needs of the many outweigh the needs of the few. Unless \
+| it's a hotfix.                                              |
 |                                                             |
-\ — Skeptical Engineer                                        /
+\ — Mr. Spock                                                 /
  -------------------------------------------------------------
    \                          .       .
     \                        / `.   .' "
