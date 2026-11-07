@@ -9,12 +9,13 @@ I'm a man of many talents, like a Swiss army knife! Commitment, passion and a de
 
 <!-- START_DAILY_QUOTE_COWSAY -->
 ```
- _____________________________________________________________
-/ The needs of the many outweigh the needs of the few. Unless \
-| it's a hotfix.                                              |
-|                                                             |
-\ — Mr. Spock                                                 /
- -------------------------------------------------------------
+ ____________________________________________________________
+/ Nothing in life is to be feared, it is only to be          \
+| understood. Now is the time to understand more, so that we |
+| may fear less.                                             |
+|                                                            |
+\ — Marie Curie                                              /
+ ------------------------------------------------------------
    \                          .       .
     \                        / `.   .' "
      \               .---.  <    > <    >  .---.
