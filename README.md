@@ -9,13 +9,11 @@ I'm a man of many talents, like a Swiss army knife! Commitment, passion and a de
 
 <!-- START_DAILY_QUOTE_COWSAY -->
 ```
- ____________________________________________________________
-/ Nothing in life is to be feared, it is only to be          \
-| understood. Now is the time to understand more, so that we |
-| may fear less.                                             |
-|                                                            |
-\ — Marie Curie                                              /
- ------------------------------------------------------------
+ ______________________________________________________________
+/ Research is what I'm doing when I don't know what I'm doing. \
+|                                                              |
+\ — Wernher von Braun                                          /
+ --------------------------------------------------------------
    \                          .       .
     \                        / `.   .' "
      \               .---.  <    > <    >  .---.
