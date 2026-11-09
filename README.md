@@ -9,11 +9,11 @@ I'm a man of many talents, like a Swiss army knife! Commitment, passion and a de
 
 <!-- START_DAILY_QUOTE_COWSAY -->
 ```
- ______________________________________________________________
-/ Research is what I'm doing when I don't know what I'm doing. \
-|                                                              |
-\ — Wernher von Braun                                          /
- --------------------------------------------------------------
+ __________________________________________________________
+/ Don't be afraid to give up the good to go for the great. \
+|                                                          |
+\ — John D. Rockefeller                                    /
+ ----------------------------------------------------------
    \                          .       .
     \                        / `.   .' "
      \               .---.  <    > <    >  .---.
