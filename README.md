@@ -9,11 +9,13 @@ I'm a man of many talents, like a Swiss army knife! Commitment, passion and a de
 
 <!-- START_DAILY_QUOTE_COWSAY -->
 ```
- __________________________________________________________
-/ Don't be afraid to give up the good to go for the great. \
-|                                                          |
-\ — John D. Rockefeller                                    /
- ----------------------------------------------------------
+ ____________________________________________________________
+/ Nothing in life is to be feared, it is only to be          \
+| understood. Now is the time to understand more, so that we |
+| may fear less.                                             |
+|                                                            |
+\ — Marie Curie                                              /
+ ------------------------------------------------------------
    \                          .       .
     \                        / `.   .' "
      \               .---.  <    > <    >  .---.
