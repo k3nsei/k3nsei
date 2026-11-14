@@ -9,12 +9,11 @@ I'm a man of many talents, like a Swiss army knife! Commitment, passion and a de
 
 <!-- START_DAILY_QUOTE_COWSAY -->
 ```
- _____________________________________________________________
-/ In a world where you can be anything, be kind. Even in code \
-| reviews. Happy World Kindness Day!                          |
-|                                                             |
-\ — Senior Dev                                                /
- -------------------------------------------------------------
+ __________________________________
+/ The best code is no code at all. \
+|                                  |
+\ — Jeff Atwood                    /
+ ----------------------------------
    \                          .       .
     \                        / `.   .' "
      \               .---.  <    > <    >  .---.
