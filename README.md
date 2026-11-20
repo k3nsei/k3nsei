@@ -9,12 +9,11 @@ I'm a man of many talents, like a Swiss army knife! Commitment, passion and a de
 
 <!-- START_DAILY_QUOTE_COWSAY -->
 ```
- ____________________________________________________________
-/ Happy International Men's Day! Celebrating all the men who \
-| make tech better.                                          |
-|                                                            |
-\ — Tech Community                                           /
- ------------------------------------------------------------
+ _________________________________________________
+/ We are all made of star stuff. And legacy code. \
+|                                                 |
+\ — Carl Sagan (adapted)                          /
+ -------------------------------------------------
    \                          .       .
     \                        / `.   .' "
      \               .---.  <    > <    >  .---.
