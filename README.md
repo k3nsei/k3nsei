@@ -9,11 +9,12 @@ I'm a man of many talents, like a Swiss army knife! Commitment, passion and a de
 
 <!-- START_DAILY_QUOTE_COWSAY -->
 ```
- _________________________________________________
-/ We are all made of star stuff. And legacy code. \
-|                                                 |
-\ — Carl Sagan (adapted)                          /
- -------------------------------------------------
+ ______________________________________________________________
+/ Why did the programmer use the entire dictionary for         \
+| variable names? He wanted to make his code self-documenting. |
+|                                                              |
+\ — Anonymous                                                  /
+ --------------------------------------------------------------
    \                          .       .
     \                        / `.   .' "
      \               .---.  <    > <    >  .---.
