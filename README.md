@@ -9,12 +9,11 @@ I'm a man of many talents, like a Swiss army knife! Commitment, passion and a de
 
 <!-- START_DAILY_QUOTE_COWSAY -->
 ```
- _________________________________________________________
-/ Why did the React component feel so emotional? Too many \
-| state changes.                                          |
-|                                                         |
-\ — React Developer                                       /
- ---------------------------------------------------------
+ __________________________________________________________
+/ Don't be afraid to give up the good to go for the great. \
+|                                                          |
+\ — John D. Rockefeller                                    /
+ ----------------------------------------------------------
    \                          .       .
     \                        / `.   .' "
      \               .---.  <    > <    >  .---.
